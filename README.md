@@ -1,6 +1,6 @@
 # Myself.md
 
-I am professional java developer with more than 16 years of experince. Most of my experince is into banking & financials services. I have been involved in through out life cycle SDLC process like starting the project from scratch to until Go live. Also hands-on Tech leader.
+I am professional java developer with more than 16 years of experience. Most of my experience is in banking & financial services. I have been involved in the complete cycle of SDLC process like starting the project from scratch until Go live. Also hands-on Tech leader.
 
 ● Over 14+ years of experience in Banking domain ( Deutsche Bank ) involved in
 
